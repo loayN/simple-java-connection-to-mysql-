@@ -6,18 +6,18 @@ an image of the tables, or you can delete them).
 then it will performe any query that will be entered via the console.
 
 ***************
-main() - will activate the program
+Main.java - will activate the program.
 ***************
-GetConfig.java - will extract the server ip, username and password from config.properties
+GetConfig.java - will extract the server ip, username and password from config.properties.
 ***************
-ServerCon.java - will initiate the connection with theserver
+ServerCon.java - will initiate the connection with theserver.
 ***************
-QueryExc.java - will excute the querys
+QueryExc.java - will excute the querys.
 ***************
-***************
-build in Intellij IDEA
 
-*Download mysql-connector-java-5.1.46 to compile the code 
+build in Intellij IDEA.
+
+*Download mysql-connector-java-5.1.46 to be able to use the "jdbc" mysql connection protocol. 
 ****************
 
 Author: Loay Naser.
